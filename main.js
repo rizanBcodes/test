@@ -1,2 +1,2 @@
-console.log('linked js successfully');
-//logic
+console.log('test');
+    //logic
